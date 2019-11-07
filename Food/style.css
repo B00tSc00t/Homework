@@ -1,0 +1,27 @@
+/* CSS Document */
+body {
+    background-image: url("Images/Background.jpg");
+    background-size: 100%
+}
+
+h1 {
+  font-family: "Times New Roman", Georgia, serif;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+  color: #ff0000;
+  background-color: #00ffff;
+}
+
+p {
+  font-family: "Apple Chancer", cursive;
+  font-size: 20px;
+  color: #991111;
+  background-color: #ffff00;
+}
+
+img {
+    border-radius: 15px;
+    margin-left: 1250px;
+}
+
